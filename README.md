@@ -2,7 +2,7 @@
 I made a model to predict car prices Car Price Prediction Project README 📌 Project Overview This project focuses on building a Car Price Prediction model to estimate the selling prices of used cars based on various car features. By analyzing factors like car model, make, year, mileage, fuel type, transmission, engine size, and other essential attributes, this model predicts the estimated selling price for a car. The project is valuable for car dealerships and customers alike, helping them make data-driven pricing decisions.
 
 
-<img align="center" alt="coding" width="600" height="400" src="https://github.com/user-attachments/assets/28d13dfe-c44a-467a-8f64-ff0aef7421dc">
+<img align="center" alt="coding" width="600" height="400" src="https://github.com/user-attachments/assets/06187f03-3fb2-441f-9b72-70c56a2d7ac0">
 
 # 🚀 Models Used
 Multiple machine learning models were implemented and compared to find the best-performing algorithm:
