@@ -9,8 +9,8 @@ This project focuses on building a Car Price Prediction model to estimate the se
 # 🚀 Models Used
 Multiple machine learning models were implemented and compared to find the best-performing algorithm:
 
-# Linear Regression
-# Decision Tree,  Random Forest (achieved highest accuracy at 93%) The Random Forest model was selected as the final model due to its high accuracy and robust performance on test data.
+### Linear Regression
+### Decision Tree,  Random Forest (achieved highest accuracy at 93%) The Random Forest model was selected as the final model due to its high accuracy and robust performance on test data.
 
 # ⚙️ Key Features
 Web Interface: A simple, user-friendly web interface was created using Flask. Users can enter car details through the interface, which returns an estimated price based on the input features. Data Preprocessing: Various data preprocessing techniques were applied to handle missing values, encode categorical data, and scale features to improve model accuracy. 📊 Evaluation The model’s accuracy and performance were evaluated based on metrics like Mean Absolute Error (MAE) and Mean Squared Error (MSE). With its 93% accuracy, the Random Forest model demonstrated the best balance between bias and variance.
